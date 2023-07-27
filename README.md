@@ -8,3 +8,4 @@ Netflix: Netflix use S3 event triggering to automatically process video files up
 Airbnb: This lodging and homestays aggregator use S3 event triggering to automatically process and analyze data stored in Amazon S3, such as guest reviews and booking information.
 
 Expedia: They use S3 event triggering to automatically process and analyze data stored in Amazon S3, such as travel bookings, user profiles, and pricing information, to power their personalized travel recommendations and search features.
+![Screenshot 2023-07-27 150026](https://github.com/mounish777/shell-scripting-/assets/94598436/35417c47-c4ee-4eeb-b1b0-f037b6105b5e)
